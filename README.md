@@ -42,7 +42,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 | **Per File**      | **$3**       | ✅ Single file decoding                       |
 |                   |              | ✅ All PHP versions supported                 |
 |                   |              | ✅ Fast & secure decoding                     |
-| **Monthly**       | **$15**      | ✅ Unlimited files                            |
+| **Monthly**       | **$150**      | ✅ Unlimited files                            |
 |                   |              | ✅ All PHP versions supported                 |
 |                   |              | ✅ Fast & secure decoding                     |
 |                   |              | ✅ 24/7 priority support                      |
@@ -52,7 +52,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 ### 🎯 Which Plan Should You Choose?
 
 - **Per File ($3):** Perfect if you only have **one or a few files** to decode.
-- **Monthly ($15):** Best value if you have **multiple files** or need **ongoing decoding services**.
+- **Monthly ($150):** Best value if you have **multiple files** or need **ongoing decoding services**.
 
 ---
 
