@@ -1,8 +1,8 @@
 # 🔓 IonCube + SourceGuardian Decoder Service
 
-> **Professional PHP Decoding Service** — Support all PHP versions from 5.0 to 8.3
+> **Professional PHP Decoding Service** — Support all PHP versions from 5.0 to 8.4
 
-![PHP](https://img.shields.io/badge/PHP-5.0--8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-5.0--8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IonCube](https://img.shields.io/badge/IonCube-Supported-00D4FF?style=for-the-badge)
 ![SourceGuardian](https://img.shields.io/badge/SourceGuardian-Supported-7B61FF?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
@@ -30,6 +30,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 | PHP 8.1     | ✅     |
 | PHP 8.2     | ✅     |
 | PHP 8.3     | ✅     |
+| PHP 8.4     | ✅     |
 
 ---
 
@@ -37,7 +38,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 
 | Plan        | Price     | Features                          |
 |-------------|-----------|-----------------------------------|
-| **Monthly** | **$15**   | ✅ Unlimited files                |
+| **Monthly** | **$30**   | ✅ Unlimited files                |
 |             |           | ✅ All PHP versions supported     |
 |             |           | ✅ Fast & secure decoding         |
 |             |           | ✅ 24/7 support                   |
