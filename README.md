@@ -1,6 +1,6 @@
 # 🔓 IonCube + SourceGuardian Decoder Service
 
-> **Professional PHP Decoding Service** — Support all PHP versions from 5.0 to 8.4
+> **Professional PHP Decoding Service** — Support all PHP versions from 7.1 to 8.4
 
 ![PHP](https://img.shields.io/badge/PHP-5.0--8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IonCube](https://img.shields.io/badge/IonCube-Supported-00D4FF?style=for-the-badge)
@@ -13,6 +13,8 @@
 
 We provide professional **IonCube** and **SourceGuardian** decoding services for PHP files.  
 Whether you have a single file or an entire project, we can decode it quickly and securely.
+
+---
 
 ### ✅ Supported PHP Versions
 
@@ -31,25 +33,35 @@ Whether you have a single file or an entire project, we can decode it quickly an
 | PHP 8.2     | ✅     |
 | PHP 8.3     | ✅     |
 | PHP 8.4     | ✅     |
+---
+
+## 💰 Pricing Plans
+
+| Plan              | Price        | Features                                      |
+|-------------------|--------------|-----------------------------------------------|
+| **Per File**      | **$3**       | ✅ Single file decoding                       |
+|                   |              | ✅ All PHP versions supported                 |
+|                   |              | ✅ Fast & secure decoding                     |
+| **Monthly**       | **$15**      | ✅ Unlimited files                            |
+|                   |              | ✅ All PHP versions supported                 |
+|                   |              | ✅ Fast & secure decoding                     |
+|                   |              | ✅ 24/7 priority support                      |
 
 ---
 
-## 💰 Pricing Plan
+### 🎯 Which Plan Should You Choose?
 
-| Plan        | Price     | Features                          |
-|-------------|-----------|-----------------------------------|
-| **Monthly** | **$30**   | ✅ Unlimited files                |
-|             |           | ✅ All PHP versions supported     |
-|             |           | ✅ Fast & secure decoding         |
-|             |           | ✅ 24/7 support                   |
+- **Per File ($3):** Perfect if you only have **one or a few files** to decode.
+- **Monthly ($15):** Best value if you have **multiple files** or need **ongoing decoding services**.
 
 ---
 
 ## 🚀 How It Works
 
 1. **Contact us** on Telegram with your files.
-2. We decode your files using professional tools.
-3. You receive the decoded PHP source code.
+2. Choose your preferred plan (per file or monthly).
+3. We decode your files using professional tools.
+4. You receive the decoded PHP source code.
 
 ---
 
@@ -72,5 +84,8 @@ Whether you have a single file or an entire project, we can decode it quickly an
 ## 📦 Example Usage
 
 ```bash
-# After contacting us, send your encrypted files
-# We decode and return the clean PHP source code
+# Single file decoding - $3
+# Send us your encrypted file and receive the decoded version
+
+# Monthly subscription - $15
+# Send unlimited files throughout the month
