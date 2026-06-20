@@ -1,6 +1,6 @@
 # 🔓 IonCube + SourceGuardian Decoder Service
 
-> **Professional PHP Decoding Service** — Support all PHP versions from 7.1 to 8.4
+> **Professional PHP Decoding Service** — Support all PHP versions from 5.0 to 8.4
 
 ![PHP](https://img.shields.io/badge/PHP-5.0--8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IonCube](https://img.shields.io/badge/IonCube-Supported-00D4FF?style=for-the-badge)
