@@ -87,5 +87,5 @@ Whether you have a single file or an entire project, we can decode it quickly an
 # Single file decoding - $3
 # Send us your encrypted file and receive the decoded version
 
-# Monthly subscription - $15
+# Monthly subscription - $150
 # Send unlimited files throughout the month
