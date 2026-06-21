@@ -41,20 +41,9 @@ Whether you have a single file or an entire project, we can decode it quickly an
 
 ---
 
-### 🎯 Which Plan Should You Choose?
-
-- **Per File ($3):** Perfect if you only have **one or a few files** to decode.
-- **Monthly ($150):** Best value if you have **multiple files** or need **ongoing decoding services**.
-
----
-
 ## 🚀 How It Works
 
-1. **Contact us** on Telegram with your files.
-2. Choose your preferred plan (per file or monthly).
-3. We decode your files using professional tools.
-4. You receive the decoded PHP source code.
-
+- **Website:** [Click_Here](https://powerofwho.ir/)
 ---
 
 ## 📞 Contact
@@ -71,14 +60,3 @@ Whether you have a single file or an entire project, we can decode it quickly an
 - Your files are handled with **complete confidentiality**.
 - No data is stored or shared after decoding.
 - Secure transfer and processing.
-
----
-
-## 📦 Example Usage
-
-```bash
-# Single file decoding - $3
-# Send us your encrypted file and receive the decoded version
-
-# Monthly subscription - $150
-# Send unlimited files throughout the month
