@@ -37,15 +37,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 
 ## 💰 Pricing Plans
 
-| Plan              | Price        | Features                                      |
-|-------------------|--------------|-----------------------------------------------|
-| **Per File**      | **$3**       | ✅ Single file decoding                       |
-|                   |              | ✅ All PHP versions supported                 |
-|                   |              | ✅ Fast & secure decoding                     |
-| **Monthly**       | **$150**      | ✅ Unlimited files                            |
-|                   |              | ✅ All PHP versions supported                 |
-|                   |              | ✅ Fast & secure decoding                     |
-|                   |              | ✅ 24/7 priority support                      |
+- **Website:** [Click_Here](https://powerofwho.ir/)
 
 ---
 
@@ -70,6 +62,7 @@ Whether you have a single file or an entire project, we can decode it quickly an
 - **Telegram:** [@HOSH3IYAH](https://t.me/hosh3iyah)
 - **Response Time:** Within 24 hours
 - **Support:** 24/7 available
+- **Website:** [Click_Here](https://powerofwho.ir/)
 
 ---
 
