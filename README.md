@@ -38,17 +38,19 @@ Whether you have a single file or an entire project, we can decode it quickly an
 ## 💰 Pricing Plans
 
 - **Website:** [Click_Here](https://powerofwho.ir/)
+- **Get a free demo:** [@HOSH3IYAH](https://t.me/hosh3iyah)
 
 ---
 
 ## 🚀 How It Works
 
 - **Website:** [Click_Here](https://powerofwho.ir/)
+- **Get a free demo:** [@HOSH3IYAH](https://t.me/hosh3iyah)
 ---
 
 ## 📞 Contact
 
-- **Telegram:** [@HOSH3IYAH](https://t.me/hosh3iyah)
+- **Get a free demo:** [@HOSH3IYAH](https://t.me/hosh3iyah)
 - **Response Time:** Within 24 hours
 - **Support:** 24/7 available
 - **Website:** [Click_Here](https://powerofwho.ir/)
